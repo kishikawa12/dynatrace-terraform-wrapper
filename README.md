@@ -1,0 +1,3 @@
+# Dynatrace Terraform Wrapper
+
+The Dynatrace Terraform Wrapper simplifies the deployment and management of Dynatrace resources using Terraform in conjunction with the [Dynatrace Terraform Provider](https://github.com/dynatrace-oss/terraform-provider-dynatrace). This tool checks for and downloads Terraform (if missing), configures Dynatrace environment variables, and provides a simple interface to execute common Terraform commands.

@@ -1,0 +1,4 @@
+.DS_store
+dynatrace-terraform-wrapper
+dynatrace-terraform-wrapper.exe
+/configuration/*
